@@ -1,0 +1,7 @@
+dm-haiku==0.0.5
+ftfy==6.0.3
+einops==0.3.3
+cbor2==5.4.2
+tqdm==4.62.3
+requests==2.23.0
+optax==0.0.9
